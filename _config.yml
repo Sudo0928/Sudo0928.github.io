@@ -24,9 +24,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: sudo의 프로그래밍 공방
+email: duarldyd0928@gmail.com
 author: GitHub User
+heading: "Welcome to Programing"
+subheading: "Github, Unity, Unreal, Java, C, C++, C#"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -130,7 +132,7 @@ yat:
 #
 # Whatever the user's choice is, it will supersede the
 # default setting of the site and be kept during the
-# visit (session). Only the dark mode setting is"manual",
+# visit (session). Only the dark modse setting is"manual",
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
