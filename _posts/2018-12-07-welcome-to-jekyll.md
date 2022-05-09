@@ -5,7 +5,7 @@ subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
 banner:
-  video: https://github.com/Sudo0928/TempVideo/raw/test/BannerVideo.mp4
+  video: https://github.com/Sudo0928/TempVideo/raw/test/BannerVideo_1080.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
