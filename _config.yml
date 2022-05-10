@@ -27,20 +27,8 @@
 title: sudo의 프로그래밍 공방
 email: duarldyd0928@gmail.com
 author: GitHub User
-heading: "Welcome to Programing"
+heading: "To the best game"
 subheading: "Github, Unity, Unreal, Java, C, C++, C#"
-banner:
-  video: https://github.com/Sudo0928/TempVideo/raw/test/BannerVideo_1080.mp4
-  loop: true
-  volume: 0.8
-  start_at: 8.5
-  image: /assets/images/banners/BannerVideo_Moment.jpg
-  opacity: 0.618
-  background: "#000"
-  height: "100vh"
-  min_height: "38vh"
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-  subheading_style: "color: gold"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -190,7 +178,7 @@ yat:
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
-# Excerpt size setting
+# Excerpt siz setting
 # excerpt_size: 350
 
 # Pagination setting
